@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleConsoleApp", "DivisibleConsoleApp\DivisibleConsoleApp.csproj", "{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleConsoleApp.Tests", "DivisibleConsoleApp.Tests\DivisibleConsoleApp.Tests.csproj", "{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75B1C7A7-F866-4285-986F-D5D09260AAD5}
+	EndGlobalSection
+EndGlobal

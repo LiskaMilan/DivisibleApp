@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milan\\Desktop\\Exercise\\DivisibleConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}|DivisibleConsoleApp\\DivisibleConsoleApp.csproj|c:\\users\\milan\\desktop\\exercise\\divisibleconsoleapp\\divisibleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0383A0-B0F5-4B7A-8E01-44EA04DC4514}|DivisibleConsoleApp\\DivisibleConsoleApp.csproj|solutionrelative:divisibleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}|DivisibleConsoleApp.Tests\\DivisibleConsoleApp.Tests.csproj|c:\\users\\milan\\desktop\\exercise\\divisibleconsoleapp\\divisibleconsoleapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7858D0C4-C6C9-4B19-A0EA-F4C27E8E33BE}|DivisibleConsoleApp.Tests\\DivisibleConsoleApp.Tests.csproj|solutionrelative:divisibleconsoleapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Exercise\\DivisibleConsoleApp\\DivisibleConsoleApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DivisibleConsoleApp.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Exercise\\DivisibleConsoleApp\\DivisibleConsoleApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "DivisibleConsoleApp.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:52:41.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milan\\Desktop\\Exercise\\DivisibleConsoleApp\\DivisibleConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DivisibleConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\milan\\Desktop\\Exercise\\DivisibleConsoleApp\\DivisibleConsoleApp\\Program.cs",
+              "RelativeToolTip": "DivisibleConsoleApp\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:32:58.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

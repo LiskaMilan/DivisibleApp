@@ -1,0 +1,14 @@
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\bin\Debug\net8.0\DivisibleConsoleApp.exe
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\bin\Debug\net8.0\DivisibleConsoleApp.deps.json
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\bin\Debug\net8.0\DivisibleConsoleApp.runtimeconfig.json
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\bin\Debug\net8.0\DivisibleConsoleApp.dll
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\bin\Debug\net8.0\DivisibleConsoleApp.pdb
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.AssemblyInfo.cs
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.dll
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\refint\DivisibleConsoleApp.dll
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.pdb
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\DivisibleConsoleApp.genruntimeconfig.cache
+C:\Users\milan\Desktop\Exercise\DivisibleConsoleApp\DivisibleConsoleApp\obj\Debug\net8.0\ref\DivisibleConsoleApp.dll

@@ -1,0 +1,7 @@
+Divisible app
+
+Spustenie programu
+	
+- Otvoríme si priečinok deploy
+- Spustíme DivisibleConsoleApp.exe
+- Pokračujeme podľa pokynov, ktoré nám zadá aplikácia

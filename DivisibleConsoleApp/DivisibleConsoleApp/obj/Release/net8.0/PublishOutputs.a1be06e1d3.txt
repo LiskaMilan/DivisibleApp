@@ -1,0 +1,5 @@
+C:\Users\milan\Desktop\Exercise\Deploy\DivisibleConsoleApp.exe
+C:\Users\milan\Desktop\Exercise\Deploy\DivisibleConsoleApp.dll
+C:\Users\milan\Desktop\Exercise\Deploy\DivisibleConsoleApp.deps.json
+C:\Users\milan\Desktop\Exercise\Deploy\DivisibleConsoleApp.runtimeconfig.json
+C:\Users\milan\Desktop\Exercise\Deploy\DivisibleConsoleApp.pdb
